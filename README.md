@@ -6,7 +6,7 @@ FE of the evaluation structuring prototype.
 
 
 ```bash
-https://e-avaliacao-bq-api.herokuapp.com/
+https://e-avaliacao-bq-fe.herokuapp.com/
 ```
 
 ## Contributing
